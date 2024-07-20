@@ -1,5 +1,5 @@
 # FlappyBallz
-**FlappyBallz**, a variant mod of the famoun Eek custom keyboard by **Klackygears**. 90 degrees, 36 keys angled layout with a 25mm trackball. Thanks to **HA HA HA** of 40's Discord channel for the chosen name.
+**FlappyBallz**, a variant mod of the famous Eek custom keyboard by **Klackygears**. 90 degrees, 36 keys angled layout with a 25mm trackball. Thanks to **HA HA HA** of 40's Discord channel for the chosen name.
 
 # Description
 **FlappyBallz** was blessed by **Klackgears** who originally designed the EEK! Here are the list of heavy mods done to the orignal design:
